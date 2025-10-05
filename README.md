@@ -1,3 +1,4 @@
 # surendra1
-this is my first repositary,
-auther surendra choudhary
+this is my first repositary
+<br>
+Auther- surendra choudhary
